@@ -13,10 +13,10 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ---
 
-## Live Link 
-The demo of the burger eating application can be found by clicking [here](https://secret-lake-55615.herokuapp.com/).
+## Live Heroku Link 
+The demo of the burger eating application can be found by clicking [here](https://evening-tor-55442.herokuapp.com/).
 
-or entering https://secret-lake-55615.herokuapp.com/ is your browser.
+or entering: https://evening-tor-55442.herokuapp.com/ in your browser.
 
 ---
 
